@@ -1,0 +1,2 @@
+# AI-internship
+Minor projects
